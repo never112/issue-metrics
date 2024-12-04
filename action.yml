@@ -1,6 +1,6 @@
 ---
-name: "issue-metrics"
-author: "github"
+name: "issue-metrics-test"
+author: "github-test"
 description: "A GitHub Action to report out issue metrics"
 runs:
   using: "docker"
