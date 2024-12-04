@@ -48,6 +48,7 @@ def auth_to_github(
 
     if not github_connection:
         raise ValueError("Unable to authenticate to GitHub")
+    print("testset")    
     return github_connection  # type: ignore
 
 
